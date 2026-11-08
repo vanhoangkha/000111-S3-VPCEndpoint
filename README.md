@@ -1,4 +1,4 @@
-# 🔗 S3 VPC Endpoint
+# S3 VPC Endpoint
 
 Access S3 privately from VPC using VPC endpoints.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series.
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000111-S3-VPCEndpoint/)**
+**[Start the workshop](https://vanhoangkha.github.io/000111-S3-VPCEndpoint/)**
 
 ## Prerequisites
 
